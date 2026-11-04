@@ -57,7 +57,7 @@ Every step produces its own CSV/TSV summary; the final step compiles a master
 summary across all species. Rows are written in a fixed (sorted) order, so a rerun
 on the same inputs gives identical files (except the per-exon step 2 gap tables, which no later step reads). Full usage and arguments for each step are
 documented individually in [`docs/`](docs/); the step-by-step technical detail
-lives in [`docs/progressive_cactus_gene_analysis_pipeline_README.txt`](docs/progressive_cactus_gene_analysis_pipeline_README.txt).
+lives in [`docs/Genomes2Genes_Phase_II_README.txt`](docs/Genomes2Genes_Phase_II_README.txt).
 
 | Step | Script | Purpose |
 |------|--------|---------|
